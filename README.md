@@ -11,9 +11,6 @@ I am exploring the fascinating intersections of artificial intelligence, data sc
 - 🔧 **Skills**:  Python,  HTML, CSS,JS,  AI/ML Basics, Data Visualization.
 
 
-## 📚 Current Projects
-
-- AI/ML Labs – Redoing and understanding Natural Language Processing concepts and building ML models.
 
 ## 🛠️ Tools & Technologies
 
